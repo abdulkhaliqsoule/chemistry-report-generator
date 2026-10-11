@@ -1,0 +1,10 @@
+# Real patient reports — never commit
+reports/
+*.pdf
+
+# Local machine settings (contains a local output path)
+lab_report_settings.txt
+
+# Python
+__pycache__/
+*.py[cod]
